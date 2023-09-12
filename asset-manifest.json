@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Panino-Corner/static/css/main.073c9b0a.css",
-    "main.js": "/Panino-Corner/static/js/main.276c15b1.js",
-    "static/js/787.28cb0dcd.chunk.js": "/Panino-Corner/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.jpg": "/Panino-Corner/static/media/logo.c341c7892243cf418dfe.jpg",
-    "index.html": "/Panino-Corner/index.html",
-    "main.073c9b0a.css.map": "/Panino-Corner/static/css/main.073c9b0a.css.map",
-    "main.276c15b1.js.map": "/Panino-Corner/static/js/main.276c15b1.js.map",
-    "787.28cb0dcd.chunk.js.map": "/Panino-Corner/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/panino-corner/static/css/main.073c9b0a.css",
+    "main.js": "/panino-corner/static/js/main.7466bdbe.js",
+    "static/js/787.28cb0dcd.chunk.js": "/panino-corner/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.jpg": "/panino-corner/static/media/logo.c341c7892243cf418dfe.jpg",
+    "index.html": "/panino-corner/index.html",
+    "main.073c9b0a.css.map": "/panino-corner/static/css/main.073c9b0a.css.map",
+    "main.7466bdbe.js.map": "/panino-corner/static/js/main.7466bdbe.js.map",
+    "787.28cb0dcd.chunk.js.map": "/panino-corner/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.276c15b1.js"
+    "static/js/main.7466bdbe.js"
   ]
 }
